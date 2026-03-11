@@ -1,0 +1,9 @@
+{
+	"name": "moviehistoryj-adf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c6cf33f4-9678-4555-989f-374fb28130aa",
+		"tenantId": "b42c58b1-e7ab-40fe-9300-52730d44ff9f"
+	}
+}
